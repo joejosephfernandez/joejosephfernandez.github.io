@@ -481,15 +481,16 @@ h6,
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
 }
-#features7-9 .card-subtitle {
-  color: #bcbcbc;
+#slider2-i .mbr-section-title,
+#slider2-i .mbr-section-lead {
+  color: #fff;
 }
-#features7-9 .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
+#slider2-i H2 {
+  text-align: center;
+  font-size: 36px;
 }
-#features1-a .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#slider2-i P {
+  text-align: center;
 }
 #form1-g .form-control-label {
   color: #232323;
