@@ -3,6 +3,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 
 
 
@@ -569,6 +571,13 @@ h6,
 #slider2-i P {
   text-align: center;
 }
+#contacts3-k STRONG {
+  color: #ffffff;
+}
+
+
+
+
 
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;
@@ -603,19 +612,19 @@ h6,
 }
 #ext_menu-l .link[aria-expanded="true"],
 #ext_menu-l .dropdown-menu {
-  background: #000000;
+  background: #648286;
 }
 #ext_menu-l .nav-dropdown-sm .link:focus,
 #ext_menu-l .nav-dropdown-sm .link:hover,
 #ext_menu-l .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-l .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #759498!important;
 }
 #ext_menu-l .navbar,
 #ext_menu-l .nav-dropdown-sm,
 #ext_menu-l .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-l .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #7e9b9f;
 }
 #ext_menu-l .bg-color.transparent .link {
   color: #ffffff;
@@ -633,5 +642,60 @@ h6,
   color: #c0a375!important;
 }
 #header1-q .mbr-section-title {
-  font-size: 48px;
+  font-size: 72px;
+  font-family: 'Indie Flower', cursive;
+  color: #ffffff;
+}
+#header1-q .mbr-section-lead {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c H3 {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+}
+#content8-1e .mbr-section-title,
+#content8-1e p {
+  text-align: right;
+  color: #fff;
+}
+#social-buttons2-1i .mbr-section-title,
+#social-buttons2-1i .btn-social {
+  color: #232323;
+}
+#contacts5-1g p,
+#contacts5-1g .list-group-text,
+#contacts5-1g .form-control-label {
+  color: #000;
+}
+#contacts5-1g strong,
+#contacts5-1g h4 {
+  color: #7e9b9f;
+}
+#contacts5-1g form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-1g .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-1g .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-1g .list-group-text {
+  color: #ffffff;
+}
+#contacts5-1g P {
+  color: #ffffff;
+}
+#contacts5-1g STRONG {
+  color: #ffffff;
+}
+#contacts5-1g .btn {
+  font-family: 'Titillium Web', sans-serif;
 }
