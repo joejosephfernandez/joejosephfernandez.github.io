@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jOE FERNANDEZ",
-    "currentPage": "index.html",
+    "currentPage": "Photoshop .html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 55,
+    "uniqCompNum": 66,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -50,13 +50,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "font-family": "'Droid Sans', sans-serif"
             },
@@ -70,16 +70,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -93,18 +93,18 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-t",
+          "_anchor": "ext_menu-l",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.7",
             "fontName": {
               "name": "Droid Sans",
               "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "css": "'Droid Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -114,7 +114,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -131,149 +131,273 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-alert mbr-iconfont mbr-iconfont-btn\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop .html\" target=\"_blank\">Adope Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">Adope Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://joejosephfernandez.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" target=\"_blank\">Mobie rise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-cust-feedback mbr-iconfont mbr-iconfont-btn\"></span>CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">CONTACT</a></li>"
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery3",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 0,
+            "paddingBottom": "0",
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Panting Project",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-2000x1575.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-2-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-2-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-3-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-3-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-4-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-4-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-5-2000x1575-1-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-5-2000x1575-1.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-6-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-6-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-7-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-7-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-8-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-8-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "1",
             "showText": false,
-            "filter": false,
-            "bgColor": "#c1c1c1",
-            "filterBgColor": false,
-            "fullWidth": false,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery1-y",
+          "_anchor": "gallery3-1r",
           "articleLayout": false,
           "allItem": "All"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-11",
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#878787",
-            "showMeta": true
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-9-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-9-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-12-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-12-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-10-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-10-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-13-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-13-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-14-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-14-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-12-2000x1575-1-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-12-2000x1575-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-15-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-15-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-16-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-16-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title": "",
-          "meta": ""
+          "_anchor": "gallery3-1q",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px"
-            }
-          },
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-10",
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-17-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-17-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-18-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-18-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-19-2000x1575-800x630.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joseph-fernandez-gim-19-2000x1575.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/",
+                "image": "@PROJECT_PATH@/assets/images/_1",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "text": "FOLLOW Me ON MY SOCIAL MEDIA &nbsp;",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "_anchor": "gallery3-1s",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
@@ -301,13 +425,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "font-family": "'Droid Sans', sans-serif"
             },
@@ -321,16 +445,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -346,16 +470,16 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.7",
             "fontName": {
               "name": "Droid Sans",
               "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "css": "'Droid Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -365,7 +489,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-384x128-1.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -387,18 +511,22 @@
           ],
           "_name": "header2",
           "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             ".mbr-section-title": {
-              "font-size": "21px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             }
           },
-          "_anchor": "header2-d",
+          "_anchor": "header2-1l",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "46",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-32-mc8kw4x9q3arr3rkp5im-img-4417-jpg-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -408,17 +536,17 @@
             "overlay": true,
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/extra-021-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/extra-021-1400x1050-1.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -436,9 +564,9 @@
               "size": 250
             }
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JOSEPH RYAN FERNANDEZ<br><br><br>&nbsp;Hi my name is Joseph Ryan Fernandez. Since i started web design i have found a passion of freedom and fun at the same time.<br>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#content2-j\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Biography<br></a>"
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">Joseph Fernandez</span><br>",
+          "text": "Hi my name is Joseph Ryan Fernandez. Since i started web design i have found a passion of freedom and fun at the same time. This is one of the things I love to in my free time. I have always loved to create videos for youtube or film special effects but I never knew how too do it.. Once i turned 11 I started to teach myself basic editing progorams. My first movie i did was me yoyoing to a song. One of my first editing programs was IMovie for the ipad and I found my passion for it. &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -537,37 +665,62 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "bgColor": "#fff",
+            "bgColor": "#785a4d",
             "showBullets": true
           },
           "_anchor": "slider2-i"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-j",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1n",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "bgColor": "#b5c7f4"
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#513c33",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
-          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Hi my name is Joseph Ryan Fernandez. Since i started web design i have found a passion of freedom and fun at the same time. This is one of the things I love to in my free time. I have always loved to create videos for youtube or film special effects but I never knew how too do it.. Once i turned 11 I started to teach myself basic editing progorams. My first movie i did was me yoyoing to a song. One of my first editing programs was IMovie for the ipad and I found my passion for it. &nbsp; &nbsp;</i></span></font>"
+          "text": "FOLLOW Me",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-k",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts3-1m",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "bgColor": "#513c33",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -575,10 +728,14 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-265x88-1.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -606,7 +763,7 @@
               "family": "et-line"
             }
           },
-          "text3": "",
+          "text3": " 15015 SW 24th Street, Miami, FL 33185",
           "media3": {
             "iconFont": {
               "active": true,
@@ -616,20 +773,20 @@
               "family": "et-line"
             }
           },
-          "text4": "",
+          "text4": "jfernandez@miamiartsstudio.com",
           "title1": "",
-          "text5": "Ciriculam<br><li><a class=\"text-white\" href=\"#\">Tech</a>&nbsp;</li>",
-          "text6": "<strong>Contacts</strong><br>Email: jfernandez@miamiartsstudio.com<br>Phone: 786-603-8716<br><br><strong>Address:&nbsp;</strong>Address: 15015 SW240 Street, Miami, FL 33185<br>1234 Street Name<br>City, AA 99999",
+          "text5": "<br><br><br><br><br>",
+          "text6": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email: jfernandez@miamiartsstudio.com</span><br>Phone: 786-603-8716<br><br>Tech Production&nbsp;<br><br><br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "mattpate@comcast.net",
+            "action": "jfernandez@miamiartsstudio.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -639,7 +796,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Phone"
               },
               "message": {
@@ -648,12 +805,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a>"
         }
       ]
     },
@@ -680,13 +832,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "font-family": "'Droid Sans', sans-serif"
             },
@@ -700,16 +852,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#648286"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#759498!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7e9b9f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -725,16 +877,16 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-l",
           "_params": {
-            "bgColor": "#7e9b9f",
+            "bgColor": "#ffffff",
             "fontSize": "0.7",
             "fontName": {
               "name": "Droid Sans",
               "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "css": "'Droid Sans', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -744,7 +896,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1005,7 +1157,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-384x128-265x88.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-265x88.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
