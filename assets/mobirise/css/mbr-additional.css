@@ -661,14 +661,16 @@ h6,
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
 }
-#content8-1e .mbr-section-title,
-#content8-1e p {
-  text-align: right;
-  color: #fff;
-}
 #social-buttons2-1i .mbr-section-title,
 #social-buttons2-1i .btn-social {
   color: #232323;
+}
+#social-buttons4-1v .mbr-section-title,
+#social-buttons4-1v .btn-social {
+  color: #fff;
+}
+#social-buttons4-1v .mbr-section-title {
+  font-size: 32px;
 }
 #contacts5-1g p,
 #contacts5-1g .list-group-text,
